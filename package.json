@@ -1,0 +1,19 @@
+{
+    "name": "latex-commands",
+    "version": "0.0.1",
+    "description": "List all latex commands.",
+    "license"   : "MIT",
+    "homepage"  : "https://github.com/tdurieux/latex-commands",
+    "author": {
+        "name"  : "tdurieux",
+        "email" : ""
+    },
+    "repository": {
+        "type"  : "git",
+        "url"   : "git://github.com/tdrieux/latex-commands.git"
+    },
+    "dependencies": {
+        "mysql" : "*",
+        "express": "3.4.4"
+    }
+}
